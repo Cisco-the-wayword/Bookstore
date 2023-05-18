@@ -28,12 +28,13 @@
 
 # 📖 Bookstore <a name="about-project"></a>
 
-**Bookstore** is a project to allow users access books in an online library where the details of each accessed vook is displayed and can easily be updated.
+**Bookstore** is a project to allow users access and provide details of current books in an online library where the details of each accessed book is displayed and can easily be updated.
 
 ## 🛠 Built With <a name="built-with"></a>
 - Gitflow
 - React
 - Javascript
+- Redux
 
 ### Tech Stack <a name="tech-stack"></a>
 
