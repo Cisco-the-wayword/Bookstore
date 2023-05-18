@@ -59,6 +59,10 @@ body {
   color: black;
 }
 
+.navLinks li a:focus {
+  font-size: 1.3rem;
+}
+
 /* Book Container */
 .mainContainer {
   display: flex;
@@ -263,4 +267,17 @@ form button {
   border-radius: 3px;
   cursor: pointer;
   color: white;
+}
+
+#image-nav {
+  width: 3.813rem;
+  height: 3.813rem;
+  margin: 0 0 0 41.5rem;
+  padding: 0.875rem;
+  border: solid 1px var(--white);
+}
+
+.add-b {
+  margin-bottom: 20px;
+  color: #888;
 }

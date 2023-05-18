@@ -31,7 +31,7 @@ const AddBook = () => {
 
   return (
     <section className="addBook">
-      <h2>ADD NEW BOOK</h2>
+      <h2 className='add-b'>ADD NEW BOOK</h2>
       <form>
         <input
           value={values.title || ''}

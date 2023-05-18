@@ -10,7 +10,7 @@ const Navbar = () => (
         <li><Link to="categories">Categories</Link></li>
       </ul>
     </div>
-    <img src="https://img.icons8.com/external-anggara-outline-color-anggara-putra/32/000000/external-avatar-interface-anggara-outline-color-anggara-putra.png" alt="profile" />
+    <img id='image-nav' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HrjlxizejA_sfkfPhIaAdv5Cxy6A-HGFzA&usqp=CAU" alt="profile" />
   </nav>
 );
 
