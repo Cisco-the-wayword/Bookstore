@@ -130,6 +130,9 @@ body {
   align-items: center;
   justify-content: center;
   min-width: 35%;
+  position: absolute;
+  right: 30%;
+  margin-top: 2%;
 }
 
 .chart {
